@@ -33,3 +33,4 @@ curl https://raw.githubusercontent.com/MassimilianoLattanzio/shopify_theme_toolk
 
 - Theme scaffolding: Quickly create a new Shopify theme with a skeleton structure using the default Shopify CLI command.
 - Tools file: A pre-configured tools file to manage your development dependencies using mise or asdf.
+- Shopify CLI integration: Seamless integration with the Shopify CLI for theme development and deployment.
